@@ -20,7 +20,7 @@ export default function Work() {
 
     <div id="Work-text">
       <h1>Professional Experiences</h1>
-      <h2><a href="https://novatel.com/" target="_blank" rel="noopener noreferrer">GNSS Applications Specialist - NovAtel | [May 2018 - Aug 2021]</a></h2>
+      <h2><a href="https://novatel.com/" target="_blank" rel="noopener noreferrer">GNSS Applications Specialist - NovAtel [May 2018 - Aug 2021]</a></h2>
       <p>Following my studies in Geomatics Engineering, I supported pre and post-sales of high-precision GNSS applications. Originally, I focused in precision agriculture on products that combined the GNSS receiver and the antenna. Later on, my focus was in sensor integration and robotics/autonomy.</p>
       <p>Now, I know what you're thinking. You know what GPS does. It's the little mechanism powering Google Maps on your iPhone when you need to get somewhere. But you might be wondering... how does it communicate with the satellites above? Who put those satellites there? What's the difference between the GPS in my phone and what you mean by high-precision?</p>
       <Button variant="text" href="https://novatel.com/an-introduction-to-gnss" target="_blank" rel="noopener noreferrer">Learn more about GNSS here</Button>
