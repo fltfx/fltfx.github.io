@@ -1,0 +1,26 @@
+.Nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2em 4em 2em 4em;
+}
+
+/* #logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+} */
+
+/* #nav-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  text-align: right;
+} */
+
+.nav-links {
+  margin: 1em 1em 1em 1em;
+}
+
+
