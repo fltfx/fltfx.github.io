@@ -10,7 +10,6 @@ export default function About() {
     <React.Fragment>
     <div id="About">
       <div>
-        {/* <img src="https://drive.google.com/uc?id=1vmKf_fbTrE9kseGCUGMzyAHEV_3h_OIM" alt="Claudia surfing" /> */}
         <figure>
           <img src="https://drive.google.com/uc?id=1yMPBVGlEQMgntwZmhl_2hvvNVkI_YZtW" alt="Claudia setting up tripod for surveying" />      
           <figcaption>My friend (right) and I (left) setting up a total station as part of a Geomatics Engineering alumni event in 2019.</figcaption>

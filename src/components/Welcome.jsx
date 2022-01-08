@@ -26,7 +26,7 @@ export default function Welcome() {
           <EmailIcon />
         </IconButton>
         <p>claudiaywong@gmail.com</p>
-        <a href="https://resume.creddle.io/resume/1rvn7zz1bda">Full resume available here</a>
+        <a href="https://resume.creddle.io/resume/1rvn7zz1bda" target="_blank" rel="noopener noreferrer">Full resume available here</a>
       </div>
     </div>
 

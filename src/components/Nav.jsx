@@ -33,9 +33,6 @@ export default function Nav() {
       <AcUnitIcon />
     </IconButton>
       <div>
-      {/* <a className="nav-links" href="/#About">About Me</a>
-      <a className="nav-links" href="/#Projects">Projects</a>
-      <a className="nav-links" href="/#Work">Work</a> */}
           <Box sx={{ width: '100%' }}>
       <Tabs value={value} onChange={handleChange} aria-label="nav tabs example">
         <LinkTab label="About Me" href="/#About" />

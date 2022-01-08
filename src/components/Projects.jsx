@@ -18,13 +18,13 @@ export default function Projects() {
         
         <div className="Projects-heading">
           <div>
-            <h2><a href="https://eatsypeasy.netlify.app/">Eatsy Peasy</a></h2>
+            <h2><a href="https://eatsypeasy.netlify.app/" target="_blank" rel="noopener noreferrer">Eatsy Peasy</a></h2>
           </div>
           <div className="Projects-buttons">
-          <IconButton href="https://github.com/cynthiaaleung/EatsyPeasy-frontend">
+          <IconButton href="https://github.com/cynthiaaleung/EatsyPeasy-frontend" target="_blank" rel="noopener noreferrer">
             <GitHubIcon />
           </IconButton>
-          <IconButton href="https://eatsypeasy.netlify.app/">
+          <IconButton href="https://eatsypeasy.netlify.app/" target="_blank" rel="noopener noreferrer">
             <LaunchIcon />
           </IconButton>
           </div>
@@ -37,10 +37,10 @@ export default function Projects() {
 
         <div className="Projects-heading">
           <div>
-            <h2><a href="https://github.com/FaezCat/bestwikimaps">Best Wiki Maps</a></h2>
+            <h2><a href="https://github.com/FaezCat/bestwikimaps" target="_blank" rel="noopener noreferrer">Best Wiki Maps</a></h2>
           </div>
           <div className="Projects-buttons">
-            <IconButton href="https://github.com/FaezCat/bestwikimaps">
+            <IconButton href="https://github.com/FaezCat/bestwikimaps" target="_blank" rel="noopener noreferrer">
             <GitHubIcon />
             </IconButton>
           </div>
@@ -52,10 +52,10 @@ export default function Projects() {
 
         <div className="Projects-heading">
           <div>
-            <h2><a href="https://github.com/fltfx/GEOG567_ConvolutionFilter">ArcGIS Convolution (Image Processing Filter) Tool</a></h2>
+            <h2><a href="https://github.com/fltfx/GEOG567_ConvolutionFilter" target="_blank" rel="noopener noreferrer">ArcGIS Convolution (Image Processing Filter) Tool</a></h2>
           </div>
           <div className="Projects-buttons">
-          <IconButton href="https://github.com/fltfx/GEOG567_ConvolutionFilter">
+          <IconButton href="https://github.com/fltfx/GEOG567_ConvolutionFilter" target="_blank" rel="noopener noreferrer">
             <GitHubIcon />
           </IconButton>
           </div>
