@@ -21,7 +21,7 @@ export default function About() {
         <br />
         <ul>
           <li>LANGUAGES: JavaScript, HTML, CSS, Ruby on Rails, C++, Python, SQL</li>
-          <li>SOFTWARE: MatLab, ArcGIS, postgreSQL, SalesForce, Jira</li>
+          <li>SOFTWARE: MatLab, ArcGIS, postgreSQL, SalesForce, Jira, Figma</li>
           <li>FRAMEWORKS: NodeJS, ReactJS, Ajax, Express, EJS, JQuery, SASS</li>
           <li>TESTING: Mocha, Chai, Cypress, Jest</li>
           <li>HOSTING: Heroku, Netlify</li>
